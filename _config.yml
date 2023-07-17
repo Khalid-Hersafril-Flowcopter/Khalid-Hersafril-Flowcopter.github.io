@@ -1,0 +1,9 @@
+# Site settings
+title: Test
+author:
+  name: Khalid Hersafril
+  email: khalid.hersafril@flowcopter.com
+description: "Test"
+
+# Build settings
+remote_theme: jekyll/minima
